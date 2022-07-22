@@ -42,3 +42,5 @@ Changelog
 
 2021/07: Same as 2020/02 except with new Southend STARs and using newer UK sector file
 2022/02: Same as previous with new sectorfile which has updated frequencies
+
+![image](https://user-images.githubusercontent.com/64741876/180459167-d413d706-fc7d-4303-a4c8-35bf3e1ca6d3.png)
