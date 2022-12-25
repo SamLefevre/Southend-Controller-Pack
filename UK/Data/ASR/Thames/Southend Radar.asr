@@ -444,7 +444,7 @@ NDBs:SWF:symbol
 NDBs:WHT:name
 NDBs:WHT:symbol
 Regions:Southend Buffer:polygon
-Regions:Southend CAS:polygon
+Regions:Southend RMA:polygon
 Runways:EGMC Southend 05-23:extended centerline 1
 Runways:EGMC Southend 05-23:extended centerline 1 left base
 Runways:EGMC Southend 05-23:extended centerline 1 left ticks
