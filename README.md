@@ -9,8 +9,7 @@ Installation:
 Information:
 
 You need the UK Controller pack from VATSIM UK so this controller pack intergrates with it, so it uses the lists.txt file so you don't need to reconfigure much.
-ASRs can be found in Data/ASR/Thames, as can the settings
-Tags and in Data/Settings and are called Tags - EGMC.txt
+ASRs can be found in Data/ASR/Thames, as can the settings.
 
 The Radar:
 
