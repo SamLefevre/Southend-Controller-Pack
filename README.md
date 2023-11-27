@@ -1,10 +1,10 @@
-Southend Controller Pack 2022/12 - By Sam Lefevre
+Southend Controller Pack 2023/11 - By Sam Lefevre
 
 Installation:
 
 1. Drag the UK folder into Documents/Euroscope
-2. Go to the Thames folder and there will be a Southend.prf file
-3. Open in euroscope and you'll have the controller pack
+2. Go to the Thames folder and there will be a Southend Custom Pack.prf file
+3. Open in euroscope and you'll be able to use the controller pack!
 
 Information:
 
@@ -37,10 +37,5 @@ WHT: Whitstable Harbour
 Thames Buffer:
 
 The Buffer is shown to the west of the control zone in pink as is the EKNIV Gate.
-
-Changelog
-
-2021/07: Same as 2020/02 except with new Southend STARs and using newer UK sector file
-2022/02: Same as previous with new sectorfile which has updated frequencies
 
 ![image](https://user-images.githubusercontent.com/64741876/180459167-d413d706-fc7d-4303-a4c8-35bf3e1ca6d3.png)
