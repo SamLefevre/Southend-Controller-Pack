@@ -1,3 +1,5 @@
+**Changes now included in UK Controller Pack, no need for addon pack.**
+
 Southend Controller Pack 2023/11 - By Sam Lefevre
 
 Installation:
